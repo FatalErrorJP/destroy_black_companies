@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_japanese:
   destroy.2.name:0 "[From.GetName]"
   destroy.2.desc_1:0 "返答するまでの期間の間、無償労働させられた分を支払ってもらおうか。"
   destroy.2.desc_2:0 "ヒャッハー！ドゥワマクども！これまで滞納していた分の支払いはどうした？"
@@ -24,3 +24,5 @@
   destroy.13.desc:0 "§H[From.Owner.GetName]§!所属の傭兵部隊が、§H[From.From.GetName]§!を襲撃しようとしているとの情報を検知した。\n契約を更新しないまま§H[Root.GetName]§!を無償で働かせている事に対する報復のようだ。\n\n回答を保留し続ければ攻撃はますます激しくなるだろう。"
   destroy.13a:0 "返答を急がなくては。"
   destroy.13a.tooltip:0 "§H[Root.GetName]§!への返答を保留し続けた場合\n30日毎に新規の襲撃艦隊が出現する"
+
+  NAME_Destroy_Black_Fleet:0 "襲撃部隊"
